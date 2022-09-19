@@ -5,7 +5,7 @@ int main()
     int i;
     int n=10;
     for(i=1;i<=n;i++){
-        printf("%d  ",i);
+        printf("%d\t",i);
     }
     return 0;
 }
